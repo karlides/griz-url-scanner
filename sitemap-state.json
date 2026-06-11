@@ -149,11 +149,27 @@
     "https://www.mynameisgriz.com/video",
     "https://www.mynameisgriz.com/vortex-popup"
   ],
-  "merch.sevenstarsfest.com": [],
+  "merch.sevenstarsfest.com": [
+    "https://merch.sevenstarsfest.com/agents.md",
+    "https://merch.sevenstarsfest.com/blogs/news",
+    "https://merch.sevenstarsfest.com/collections/frontpage",
+    "https://merch.sevenstarsfest.com/pages/contact",
+    "https://merch.sevenstarsfest.com/pages/data-sharing-opt-out",
+    "https://merch.sevenstarsfest.com/pages/faq"
+  ],
   "shop.mynameisgriz.com": [],
   "www.sevenstarsgeneralstore.com": [
     "https://www.sevenstarsgeneralstore.com/2026-products",
     "https://www.sevenstarsgeneralstore.com/home"
   ],
-  "www.grizfuturefunk.com": []
+  "www.grizfuturefunk.com": [
+    "https://www.grizfuturefunk.com/",
+    "https://www.grizfuturefunk.com/agents.md",
+    "https://www.grizfuturefunk.com/blogs/news",
+    "https://www.grizfuturefunk.com/collections/frontpage",
+    "https://www.grizfuturefunk.com/pages/contact",
+    "https://www.grizfuturefunk.com/pages/data-sharing-opt-out",
+    "https://www.grizfuturefunk.com/products/future-funk-jersey-vinyl-bundle",
+    "https://www.grizfuturefunk.com/products/future-funk-jersey-vinyl-bundle-copy"
+  ]
 }
